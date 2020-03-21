@@ -5,3 +5,5 @@
 "Josh Sargent"
 "DeAndre Yedlin"
 "Tim Weah"
+"Matt Miazga"
+
