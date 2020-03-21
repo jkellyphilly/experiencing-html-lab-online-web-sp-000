@@ -7,3 +7,5 @@
 "DeAndre Yedlin"
 "Tim Weah"
 "Matt Miazga"
+"John Brooks"
+"Shaq Moore"
