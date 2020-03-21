@@ -1,6 +1,7 @@
 "Joel Kelly"
 "Christian Pulisic"
 "Tyler Adams"
+"Zach Steffen"
 "Weston McKennie"
 "Josh Sargent"
 "DeAndre Yedlin"
